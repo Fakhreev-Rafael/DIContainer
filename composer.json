@@ -1,0 +1,16 @@
+{
+    "name": "rafael/di-container",
+    "description": "PHP DIContainer",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fakhreev-Rafael",
+            "email": "rafael-fakhreev@yandex.ru"
+        }
+    ],
+    "require": {}
+}
